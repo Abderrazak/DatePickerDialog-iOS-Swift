@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "QbS-93-sxU"; */
+"QbS-93-sxU.normalTitle" = "Annuler";
+
+/* Class = "IBUILabel"; text = "Your title:"; ObjectID = "cQ1-zt-CPF"; */
+"cQ1-zt-CPF.text" = "Your title:";
+
+/* Class = "IBUIButton"; normalTitle = "Select"; ObjectID = "iUi-uW-UZX"; */
+"iUi-uW-UZX.normalTitle" = "Valider";
